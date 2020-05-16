@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 48c4e4ab4827cc5468cf67b6cd813146
+timeCreated: 1552849626
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ValveBiped.Anim_Attachment_LH
+    100002: ValveBiped.Anim_Attachment_LH_end
+    100004: ValveBiped.Anim_Attachment_RH
+    100006: ValveBiped.Anim_Attachment_RH_end
+    100008: ValveBiped.Bip01_Head1
+    100010: ValveBiped.Bip01_L_Calf
+    100012: ValveBiped.Bip01_L_Clavicle
+    100014: ValveBiped.Bip01_L_Foot
+    100016: ValveBiped.Bip01_L_Foot_end
+    100018: ValveBiped.Bip01_L_Forearm
+    100020: ValveBiped.Bip01_L_Hand
+    100022: ValveBiped.Bip01_L_Thigh
+    100024: ValveBiped.Bip01_L_UpperArm
+    100026: ValveBiped.Bip01_Neck1
+    100028: ValveBiped.Bip01_Pelvis
+    100030: ValveBiped.Bip01_R_Calf
+    100032: ValveBiped.Bip01_R_Clavicle
+    100034: ValveBiped.Bip01_R_Foot
+    100036: ValveBiped.Bip01_R_Foot_end
+    100038: ValveBiped.Bip01_R_Forearm
+    100040: ValveBiped.Bip01_R_Hand
+    100042: ValveBiped.Bip01_R_Thigh
+    100044: ValveBiped.Bip01_R_UpperArm
+    100046: ValveBiped.Bip01_Spine
+    100048: ValveBiped.Bip01_Spine1
+    100050: ValveBiped.Bip01_Spine2
+    100052: ValveBiped.Bip01_Spine4
+    100054: ValveBiped.forward
+    100056: ValveBiped.forward_end
+    100058: Vectorman
+    100060: //RootNode
+    100062: Vectorman_skeleton
+    400000: ValveBiped.Anim_Attachment_LH
+    400002: ValveBiped.Anim_Attachment_LH_end
+    400004: ValveBiped.Anim_Attachment_RH
+    400006: ValveBiped.Anim_Attachment_RH_end
+    400008: ValveBiped.Bip01_Head1
+    400010: ValveBiped.Bip01_L_Calf
+    400012: ValveBiped.Bip01_L_Clavicle
+    400014: ValveBiped.Bip01_L_Foot
+    400016: ValveBiped.Bip01_L_Foot_end
+    400018: ValveBiped.Bip01_L_Forearm
+    400020: ValveBiped.Bip01_L_Hand
+    400022: ValveBiped.Bip01_L_Thigh
+    400024: ValveBiped.Bip01_L_UpperArm
+    400026: ValveBiped.Bip01_Neck1
+    400028: ValveBiped.Bip01_Pelvis
+    400030: ValveBiped.Bip01_R_Calf
+    400032: ValveBiped.Bip01_R_Clavicle
+    400034: ValveBiped.Bip01_R_Foot
+    400036: ValveBiped.Bip01_R_Foot_end
+    400038: ValveBiped.Bip01_R_Forearm
+    400040: ValveBiped.Bip01_R_Hand
+    400042: ValveBiped.Bip01_R_Thigh
+    400044: ValveBiped.Bip01_R_UpperArm
+    400046: ValveBiped.Bip01_Spine
+    400048: ValveBiped.Bip01_Spine1
+    400050: ValveBiped.Bip01_Spine2
+    400052: ValveBiped.Bip01_Spine4
+    400054: ValveBiped.forward
+    400056: ValveBiped.forward_end
+    400058: Vectorman
+    400060: //RootNode
+    400062: Vectorman_skeleton
+    4300000: Vectorman
+    9500000: //RootNode
+    13700000: Vectorman
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
